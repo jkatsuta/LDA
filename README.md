@@ -1,7 +1,7 @@
 # LDA
 
 トピックモデル（LDA）がテーマのブログのためのコード集です。  
-ブログURL:
+ブログURL: http://recruit.gmo.jp/engineer/jisedai/blog/topic-model/
 
 
 もし実際に動かしたい場合は、  
